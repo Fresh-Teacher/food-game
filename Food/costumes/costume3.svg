@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="56.5" height="101" viewBox="-1 -0.5 56.5 101">
+  <defs>
+    <linearGradient id="grad_1" x2="1">
+      <stop offset="0" stop-color="#995900" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FFE9CC" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_2" x2="1">
+      <stop offset="0" stop-color="#9F6F32" stop-opacity="1"/>
+      <stop offset="1" stop-color="#875F2B" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_3" x2="1">
+      <stop offset="0" stop-color="#990000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF9999" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_4" x2="1">
+      <stop offset="0" stop-color="#990000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF9999" stop-opacity="1"/>
+    </linearGradient>
+  <linearGradient id="grad_1-,0,0,1,-175.5,-122" x2="44.5" x1="11.5" y1="36" y2="36" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#995900" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FFE9CC" stop-opacity="1"/>
+    </linearGradient><linearGradient id="grad_3-,0,0,1,-185,-116" x2="51.5" x1="2.5" y1="0.5" y2="0.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#990000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF9999" stop-opacity="1"/>
+    </linearGradient><linearGradient id="grad_4-,0,0,1,-181.5,-122" x2="54.5" x1="0" y1="28" y2="28" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#990000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF9999" stop-opacity="1"/>
+    </linearGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <g id="ID0.23877134313806891">
+    <path id="ID0.4164515919983387" fill="url(#grad_1-,0,0,1,-175.5,-122)" stroke="url(#grad_2)" stroke-width="2" stroke-linecap="round" d="M 11.5 38 L 24 37.5 L 44.5 36 L 26.5 99.5 L 11.5 38 Z "/>
+    <path id="ID0.40489443810656667" fill="url(#grad_3-,0,0,1,-185,-116)" stroke="none" d="M 27 0.5 C 33.759 0.5 39.884 2.881 44.32 6.728 C 48.755 10.575 51.5 15.887 51.5 21.75 C 51.5 27.613 48.755 32.925 44.32 36.772 C 39.884 40.619 33.759 43 27 43 C 20.241 43 14.116 40.619 9.68 36.772 C 5.245 32.925 2.5 27.613 2.5 21.75 C 2.5 15.887 5.245 10.575 9.68 6.728 C 14.116 2.881 20.241 0.5 27 0.5 Z " stroke-width="1"/>
+    <path id="ID0.07178620249032974" fill="url(#grad_4-,0,0,1,-181.5,-122)" stroke="none" d="M 27.25 28 C 34.768 28 41.581 28.896 46.514 30.345 C 51.447 31.793 54.5 33.793 54.5 36 C 54.5 38.207 51.447 40.207 46.514 41.655 C 41.581 43.104 34.768 44 27.25 44 C 19.732 44 12.919 43.104 7.986 41.655 C 3.053 40.207 0 38.207 0 36 C 0 33.793 3.053 31.793 7.986 30.345 C 12.919 28.896 19.732 28 27.25 28 Z " stroke-width="1"/>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="517" height="361" viewBox="-0.5 -0.5 517 361">
+  <defs>
+    <linearGradient id="grad_1" x2="1">
+      <stop offset="0" stop-color="#999900" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FFFF00" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_2" x2="1">
+      <stop offset="0" stop-color="#FFFF00" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FFFF00" stop-opacity="0"/>
+    </linearGradient>
+  <linearGradient id="grad_1-,0,0,1,36,0" x2="516" x1="36" y1="0" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#999900" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FFFF00" stop-opacity="1"/>
+    </linearGradient><linearGradient id="grad_2-,0,0,1,36,0" x2="516" x1="0" y1="73" y2="73" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFF00" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FFFF00" stop-opacity="0"/>
+    </linearGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.2026149039156735" fill="url(#grad_1-,0,0,1,36,0)" stroke="none" d="M 36 0 L 516 0 L 516 360 L 36 360 L 36 0 Z " stroke-width="1"/>
+  <text id="ID0.550306523218751" fill="#FF0000" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(2.52977 0 0 2.52977 134.06 -2.58932)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">Time's Up!</tspan></text>
+  <path id="ID0.44814185751602054" fill="url(#grad_2-,0,0,1,36,0)" stroke="none" stroke-linecap="round" d="M 0 73 L 516 192 L 516 360 L 36 360 L 0 73 Z " stroke-width="1"/>
+  <text id="ID0.7516836449503899" fill="#FF0000" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(1 0 0 1 51 197.15)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">Your Score:</tspan></text>
+  <text id="ID0.7516836449503899" fill="#FF0000" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(1 0 0 1 282.65 197.55)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">Items Missed:</tspan></text>
+  <text id="ID0.4145763120613992" fill="#FF0000" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(1 0 0 1 53 251.15)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">High Score:</tspan></text>
+  <text id="ID0.18795834202319384" fill="#003FFF" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(1 0 0 1 103 67.15)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">Click the green flag to play again!</tspan></text>
+  <text id="ID0.7516836449503899" fill="#FF0000" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(1 0 0 1 282.85 250.55)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">Bombs Hit:</tspan></text>
+  <text id="ID0.6705753621645272" fill="#FF0000" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(0.728946 0 0 0.728946 85.4579 278.763)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">(Global)</tspan></text>
+</svg>
